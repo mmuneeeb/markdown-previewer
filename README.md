@@ -1,4 +1,2 @@
-# Markdown Previewer
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mmuneeeb/pen/OJBvJrR](https://codepen.io/mmuneeeb/pen/OJBvJrR).
+his is my solution for the markdown previewer project for Data Visualization module on freecodecamp.org. View here: https://codepen.io/mmuneeeb/pen/OJBvJrR.
 
