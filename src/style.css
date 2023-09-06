@@ -1,0 +1,20 @@
+body{
+  background-color: #76b5c5;
+}
+
+.preview{
+  background-color: #eeeee4;
+}
+
+.editor, .preview{
+  min-height: 400px;
+  min-width: 600px;
+}
+
+h1, h5, textarea{
+  color:#eeeee4;
+}
+
+.preview img {
+  max-width: 100px;
+}
